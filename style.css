@@ -1,0 +1,23 @@
+.container{
+    border: 2px solid black;
+    height: 100%;
+    margin-top: 3rem;
+   
+}
+
+.card-body{
+    gap: 1rem;
+    
+}
+
+div p{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.img-fluid{
+    display: flex;
+    justify-content: center;
+}
+
+
